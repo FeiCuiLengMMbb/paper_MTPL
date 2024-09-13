@@ -8,7 +8,7 @@ Preference-Based reinforcement learning (PBRL) learns directly from the preferen
 You can find the full version of the paper here: [arXiv: 2409.07268](https://arxiv.org/abs/2409.07268)
 
 ## The following shows the learning curves for each task.
-![image](https://github.com/FeiCuiLengMMbb/paper_MTP/1_ww.pdf)
+![image](https://github.com/FeiCuiLengMMbb/paper_MTPL/blob/main/10_bicc.pdf)
 
 ## Citation Format
 If you would like to cite this paper, please use the following format:
