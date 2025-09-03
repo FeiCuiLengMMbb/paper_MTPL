@@ -11,6 +11,7 @@ You can find the full version of the paper here: [arXiv: 2409.07268](https://arx
 
 ## The learning curves of four baselines compared to MTPL across ten tasks.
 ![Learning curves](LC.png)
+
 The "+" in the legend indicates the use of MTPL. PEBBLE, RUNE, MRN, and SS represent four state-of-the-art comparison algorithms. For more details, please refer to the paper.
 
 ## The following demonstrates the performance of this paper in the Point Mass task.
