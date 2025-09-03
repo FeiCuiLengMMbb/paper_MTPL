@@ -1,3 +1,5 @@
+# Attention! 
+We are pleased to announce that our paper has been accepted and published in the proceedings of **ICRA 2025**.
 # paper_MTPL
 Official Project Homepage of Multi-Type Preference Learning: Enhancing Preference-Based Reinforcement Learning through Equal Preferences.
 
@@ -18,6 +20,16 @@ You can view the project videos "PEBBLE.mp4" and "PEBBLE+MTPL.mp4."
 ## Citation Format
 If you would like to cite this paper, please use the following format:
 ```
+@INPROCEEDINGS{11127694,
+  author={Liu, Ziang and Xu, Junjie and Wu, Xingjiao and Yang, Jing and He, Liang},
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Multi-Type Preference Learning: Empowering Preference-Based Reinforcement Learning with Equal Preferences}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1163-1169},
+  keywords={Neural networks;Buildings;Reinforcement learning;User experience;Behavioral sciences;Robots},
+  doi={10.1109/ICRA55743.2025.11127694}}
 @misc{liu2024multitypepreferencelearningempowering,
       title={Multi-Type Preference Learning: Empowering Preference-Based Reinforcement Learning with Equal Preferences}, 
       author={Ziang Liu and Junjie Xu and Xingjiao Wu and Jing Yang and Liang He},
